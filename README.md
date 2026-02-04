@@ -8,7 +8,7 @@ I’m a passionate Computer Science student who loves building practical, user-f
 
 🌱 Currently learning: React, ASP.NET, SQL, Advanced JavaScript
 
-🔭 Interested in: Full-Stack Web Development
+🔭 Interested in: Web Development,UI UX design
 
 💡 Focused on writing clean, scalable, and responsive code
 
