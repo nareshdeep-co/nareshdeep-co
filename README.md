@@ -8,7 +8,7 @@ I’m a passionate Computer Science student who loves building practical, user-f
 
 🌱 Currently learning: React, ASP.NET, SQL, Advanced JavaScript
 
-🔭 Interested in: Web Development,UI UX design
+🔭 Interested in: Web Development,DSA
 
 💡 Focused on writing clean, scalable, and responsive code
 
@@ -16,18 +16,13 @@ I’m a passionate Computer Science student who loves building practical, user-f
 
 Tech Stack 🧠
 💻 Programming Languages
-
-
-
-
-
-
+Java
+C
 
 
 🌐 Web Technologies
-
-
-
+google gemini
+chatgpt 
 
 
 
@@ -35,7 +30,8 @@ Tech Stack 🧠
 
 🛠 Tools & Platforms
 
-
+vs code 
+blender
 
 
 
@@ -43,6 +39,7 @@ Tech Stack 🧠
 
 
 Featured Projects 💻
+
 🌐 Personal Portfolio Website
 
 Tech: HTML, CSS, JavaScript
@@ -52,6 +49,8 @@ Designed and developed a responsive portfolio website
 Added animations and interactive UI elements
 
 Optimized layout for mobile, tablet, and desktop devices
+
+
 
 🔐 User Registration & Login Portal
 
@@ -63,6 +62,9 @@ Implemented user registration, login, and validation
 
 Integrated database connectivity with scalable architecture
 
+
+
+
 📊 Online Polling System
 
 Tech: HTML, CSS, JavaScript
@@ -72,6 +74,8 @@ Developed a web-based polling application
 Implemented real-time vote counting and instant feedback
 
 Created a clean, responsive UI for all devices
+
+
 
 🚨 Real-Time Disaster Notifier
 
