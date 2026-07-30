@@ -6,7 +6,7 @@ About Me 🚀
 
 I’m a passionate Computer Science student who loves building practical, user-focused web applications. I enjoy turning ideas into real projects, experimenting with new technologies, and continuously improving my problem-solving skills.
 
-🌱 Currently learning: React, ASP.NET, SQL, Advanced JavaScript
+🌱 Currently learning: React, SQL, Advanced JavaScript
 
 🔭 Interested in: Web Development,DSA
 
